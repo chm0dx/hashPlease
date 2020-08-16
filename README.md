@@ -1,5 +1,7 @@
 # hashPlease
 
+![Hash Please](https://imgflip.com/i/4bn8qy)
+
 Happy Cracking!
 
 usage: hashPlease.py [-h] [--showDetails] [--wordList WORDLIST]
